@@ -1,3 +1,9 @@
+##Hi There 
+<p align="center">
+    <a style="font-size:15px;font-family:verdana"><b>Discord:</b></a><br>
+	<img src="[https://discord.c99.nl/widget/theme-1/290883849691463681.png](https://discord.c99.nl/widget/theme-4/290883849691463681.png)" alt="Discord"/>
+</p>
+
 ```javascript
  let me = {
 	    name: "Saragii",
