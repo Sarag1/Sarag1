@@ -2,8 +2,8 @@
  let me = {
 	    name: "Saragii",
 	    birthday: new Date(2002, 08,07),
-	    languages: ["Python", "JavaScript","Java","C++",C#"]
-		description: "so, I don't know what to put here I like the manga and code, that's all"
+	    languages: ["Python", "JavaScript","Java","C++",C#"],
+	    description: "so, I don't know what to put here I like the manga and code, that's all"
 	 }
 ```
 ![Lol i love code](https://i.pinimg.com/originals/74/c2/f0/74c2f0be552806e0b686e1396751f4a9.gif)
