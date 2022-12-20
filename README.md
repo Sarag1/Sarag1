@@ -1,16 +1,18 @@
-### Hi there 👋
+```javascript
+ let me = {
+	    name: "Saragii",
+	    birthday: new Date(2002, 08,07),
+	    languages: ["Python", "JavaScript","Java","C++",C#"]
+		description: "so, I don't know what to put here I like the manga and code, that's all"
+	 }
+```
+![Lol i love code](https://i.pinimg.com/originals/74/c2/f0/74c2f0be552806e0b686e1396751f4a9.gif)
 
-<!--
-**Sarag1/Sarag1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|language| seniority|
+|--|--|
+| Java | Mid-Level|
+|JS|Mid-Level|
+|Python|Mid-Level|
+|React|Junior |
+|C++|Junior|
+|C#|Junior|
