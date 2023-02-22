@@ -8,7 +8,7 @@
  let me = {
 	    name: "Saragii",
 	    birthday: new Date(2002, 08,07),
-	    languages: ["Python", "JavaScript","Java","C++",C#"],
+	    languages: ["Python", "JavaScript","Java","C++","C#"],
 	    description: "so, I don't know what to put here I like the manga and code, that's all"
 	 }
 ```
