@@ -1,3 +1,4 @@
+
 ## Hi There 
 <p align="center">
     <a style="font-size:15px;font-family:verdana"><b>Discord:</b></a><br>
@@ -12,7 +13,14 @@
 	    description: "so, I don't know what to put here I like the manga and code, that's all"
 	 }
 ```
-![Lol i love code](https://i.pinimg.com/originals/74/c2/f0/74c2f0be552806e0b686e1396751f4a9.gif)
+
+## Some Projects
+
+|Name| Url |
+|--|--|
+| Studio Ghibli Movie Page | https://sarag1.github.io/Ghibli-Studio-Movies/ |
+
+## Languages ​​Learned
 
 |language| seniority|
 |--|--|
@@ -22,3 +30,5 @@
 |React|Junior |
 |C++|Junior|
 |C#|Junior|
+
+![Lol I lov code](https://i.pinimg.com/originals/74/c2/f0/74c2f0be552806e0b686e1396751f4a9.gif)
