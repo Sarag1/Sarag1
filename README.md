@@ -20,6 +20,7 @@
 |--|--|
 | Studio Ghibli Movie Page | https://sarag1.github.io/Ghibli-Studio-Movies/ |
 | Pokemon Api Page (so basic) | https://sarag1.github.io/PokemonProject/ |
+| FastTyping game (i was bored) | https://sarag1.github.io/FastTypinh/ |
 
 ## Languages ​​Learned
 
