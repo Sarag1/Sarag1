@@ -16,12 +16,12 @@
 
 ## Some Projects
 
-|Name| Url |
-|--|--|
-| Studio Ghibli Movie Page | https://sarag1.github.io/Ghibli-Studio-Movies/ |
-| Pokemon Api Page (so basic) | https://sarag1.github.io/PokemonProject/ |
-| FastTyping game (i was bored) | https://sarag1.github.io/FastTypinh/ |
-| Anime Masonry gallery | https://sarag1.github.io/Mansory-Galery/ |
+| Name | Technologies | Url |
+|--|--|--|
+| Studio Ghibli Movie Page | React.js, Axios, TailwindCss | https://sarag1.github.io/Ghibli-Studio-Movies/ |
+| Pokemon Api Page (so basic) | React.js, fetch, TailwindCss | https://sarag1.github.io/PokemonProject/ |
+| FastTyping game (i was bored) | React.js, Css | https://sarag1.github.io/FastTypinh/ |
+| Anime Masonry gallery | React.js, fetch, Css | https://sarag1.github.io/Mansory-Galery/ |
 
 ## Languages ​​Learned
 
