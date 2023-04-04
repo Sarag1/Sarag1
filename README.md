@@ -22,6 +22,8 @@
 | Pokemon Api Page (so basic) | React.js, fetch, TailwindCss | https://sarag1.github.io/PokemonProject/ |
 | FastTyping game (i was bored) | React.js, Css | https://sarag1.github.io/FastTypinh/ |
 | Anime Masonry gallery | React.js, fetch, Css | https://sarag1.github.io/Mansory-Galery/ |
+| Suzume Anime Landing Page | React.js, Css | https://sarag1.github.io/Suzume/ |
+| Studio Ghibli Api (soon) | Node.js, Express, mongoDB | Soon |
 
 ## Languages ​​Learned
 
