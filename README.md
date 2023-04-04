@@ -18,8 +18,8 @@
 
 | Name | Technologies | Url |
 |--|--|--|
-| Studio Ghibli Movie Page | React.js, Axios, TailwindCss | https://sarag1.github.io/Ghibli-Studio-Movies/ |
-| Pokemon Api Page (so basic) | React.js, fetch, TailwindCss | https://sarag1.github.io/PokemonProject/ |
+| Studio Ghibli Movie Page | React.js, Axios, TailwindCss, ReactRouter | https://sarag1.github.io/Ghibli-Studio-Movies/ |
+| Pokemon Api Page (so basic) | React.js, fetch, TailwindCss, ReactRouter | https://sarag1.github.io/PokemonProject/ |
 | FastTyping game (i was bored) | React.js, Css | https://sarag1.github.io/FastTypinh/ |
 | Anime Masonry gallery | React.js, fetch, Css | https://sarag1.github.io/Mansory-Galery/ |
 | Suzume Anime Landing Page | React.js, Css | https://sarag1.github.io/Suzume/ |
