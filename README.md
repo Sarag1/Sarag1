@@ -21,6 +21,7 @@
 | Studio Ghibli Movie Page | https://sarag1.github.io/Ghibli-Studio-Movies/ |
 | Pokemon Api Page (so basic) | https://sarag1.github.io/PokemonProject/ |
 | FastTyping game (i was bored) | https://sarag1.github.io/FastTypinh/ |
+| Anime Masonry gallery | https://sarag1.github.io/Mansory-Galery/ |
 
 ## Languages ​​Learned
 
@@ -29,7 +30,7 @@
 | Java | Mid-Level|
 |JS|Mid-Level|
 |Python|Mid-Level|
-|React|Junior |
+|React|Mid-Level |
 |C++|Junior|
 |C#|Junior|
 
