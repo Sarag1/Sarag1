@@ -23,7 +23,8 @@
 | FastTyping game (i was bored) | React.js, Css | https://sarag1.github.io/FastTypinh/ |
 | Anime Masonry gallery | React.js, fetch, Css | https://sarag1.github.io/Mansory-Galery/ |
 | Suzume Anime Landing Page | React.js, Css | https://sarag1.github.io/Suzume/ |
-| Studio Ghibli Api (soon) | Node.js, Express, mongoDB | Soon |
+| Studio Ghibli Api | Node.js, Express, mongoDB | I end this but i can't pay a host :(( |
+| Portfolio | Astro | https://sarag1.github.io/Portfolio/ |
 
 ## Languages ​​Learned
 
