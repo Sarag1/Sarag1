@@ -1,6 +1,3 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6961&fontColor=ffffff&height=300&section=header&text=Hello%20There%20Im&fontSize=30&animation=fadeIn&fontAlignY=20&fontAlign=15&desc=Diego%20Andres&descSize=25&descAlign=12&descAlignY=32" style="width: 100%"/>
-
 <div align="left">
 <img height="210" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31cplqm7ra2eb2btq3hmregdz6vy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true" style="margin-right: 100px;"/>
 
