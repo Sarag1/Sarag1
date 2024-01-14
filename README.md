@@ -3,7 +3,7 @@
 
 ```python
 class Persona:
-	def  __init__(self, nombre, learning=[], quote):
+	def  __init__(self, nombre, learning=[]):
 		self.nombre = nombre
 		self.learning= learning
 
