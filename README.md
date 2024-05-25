@@ -62,14 +62,10 @@ me = Persona(
 		&#10022; Estudiante de Ingenieria En Informatica<br>
 		&#10022; Siempre estoy pensando en proyectos para desarollar aunque tenga un monton de ideas ya planeadas<br>
 		&#10022; Puedes encontrarme en:<br><br>
-		<a href="https://www.linkedin.com/in/diegoam1/" target="_blank">
-  			<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   		</a>
   		<a href="https://discordapp.com/users/290883849691463681" target="_blank">
   			<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   		</a>
-  		<a href="https://discordapp.com/users/290883849691463681" target="_blank">
-  			<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   		</a>
     		<a href="https://sarag1.github.io/Portfolio/" target="_blank">
   			<img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
