@@ -3,13 +3,13 @@
 
 ```python
 class Persona:
-	def  __init__(self, nombre, learning=[]):
-		self.nombre = nombre
+	def  __init__(self, username, learning=[]):
+		self.username = username
 		self.learning= learning
 
 me = Persona(
-	"Diego Andres",
-	["go", "nestjs", "react native"],
+	"Saragii",
+	["Next", "JWT Auth"],
 	)
 ```
 </div>
